@@ -1,10 +1,10 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-name="远远的电视频道" tvg-logo="https://q5.itc.cn/q_70/images01/20241019/ae2b2966c26c43e58c84d0d723f9b312.jpeg",远远的电视频道
+x-tvg-url="http://epg.51zmt.top:8000/e.xml "
+#EXTINF:-1 tvg-name="远远的电视频道" tvg-logo="https://q5.itc.cn/q_70/images01/20241019/ae2b2966c26c43e58c84d0d723f9b312.jpeg" group-title="远远的电视频道",远远的电视频道
 http://171.105.31.27:6610/gitv_live/G_CCTV-3-HD-265-8M/1.m3u8?Playtype=1&m3u8_level=2&IASHttpSessionId=RR824320240531031043153828
 
 #EXTINF:-1 tvg-name="远远的电视频道" tvg-logo="https://q5.itc.cn/q_70/images01/20241019/ae2b2966c26c43e58c84d0d723f9b312.jpeg" group-title="远远的电视频道",关注公众号
-https://gitee.com/vv2029/gitee2025/raw/master/mianzeshengming.png
+https://cywinth2025.github.io/SuCai/mianzeshengming.mp4
 
 #两广粤语频道
 
