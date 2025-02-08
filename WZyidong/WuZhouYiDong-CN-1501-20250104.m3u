@@ -1,6 +1,7 @@
 #EXTM3U
-x-tvg-url="http://epg.51zmt.top:8000/e.xml "
-#EXTINF:-1 tvg-name="公众号【壹来了】" tvg-logo="https://gitee.com/vv2029/gitee2025/raw/master/yilailogo.jpg" group-title="公众号【壹来了】",关注公众号【壹来了】
+x-tvg-url="http://epg.51zmt.top:8000/e.xml"
+
+#EXTINF:-1 tvg-name="公众号『壹来了』" tvg-logo="https://gitee.com/vv2029/gitee2025/raw/master/yilailogo.jpg" group-title="公众号【壹来了】",关注公众号『壹来了』
 https://pan.baidu.com/share/streaming?channel=chunlei&uk=3711833897&fid=269490943150744&sign=91c5d4f728742acf6bd4921422911f3edf3b6bcc&timestamp=1737175481&shareid=46143792027&type=M3U8_AUTO_720&vip=0&jsToken=82C8B6EDAA0DAF981E77D0D76A0721639819FAE80F824975C077EB301739213CDE4DE329E9C63EFA136BDE6D8C850A28&isplayer=1&check_blue=1&adToken=
 
 #EXTINF:-1 tvg-name="公众号【壹来了】" tvg-logo="https://gitee.com/vv2029/gitee2025/raw/master/yilailogo.jpg" group-title="公众号【壹来了】",关注公众号【壹来了】
