@@ -1,8 +1,8 @@
 #EXTM3U
-x-tvg-url="http://epg.51zmt.top:8000/e.xml "
+x-tvg-url="http://epg.51zmt.top:8000/e.xml"
 
-#EXTINF:-1 tvg-name="公众号【壹来了】" tvg-logo="https://gitee.com/vv2029/gitee2025/raw/master/yilailogo.jpg" group-title="公众号【壹来了】",关注公众号【壹来了】
-https://gh-proxy.com/raw.githubusercontent.com/CyWinth2025/SuCai/refs/heads/main/%E5%AE%A3%E4%BC%A0%E8%A7%86%E9%A2%91.m3u8
+#EXTINF:-1 tvg-name="公众号『壹来了』" tvg-logo="https://gitee.com/vv2029/gitee2025/raw/master/yilailogo.jpg" group-title="公众号【壹来了】",关注公众号『壹来了』
+https://gh-proxy.com/raw.githubusercontent.com/CyWinth2025/SuCai/refs/heads/main/output.m3u8
 
 #EXTINF:-1 tvg-name="公众号【壹来了】" tvg-logo="https://gitee.com/vv2029/gitee2025/raw/master/yilailogo.jpg" group-title="公众号【壹来了】",关注公众号【壹来了】
 http://39.134.64.179:6610/PLTV/88888888/224/3221226537/index.m3u8?IASHttpSessionId=OTT3178220250207065701021964
