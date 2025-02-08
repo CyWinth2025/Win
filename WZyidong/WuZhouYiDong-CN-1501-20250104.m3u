@@ -1,11 +1,10 @@
 #EXTM3U
 x-tvg-url="http://epg.51zmt.top:8000/e.xml "
-#EXTINF:-1 tvg-name="远远的电视频道" tvg-logo="https://q5.itc.cn/q_70/images01/20241019/ae2b2966c26c43e58c84d0d723f9b312.jpeg" group-title="远远的电视频道",恭喜发财！财源广进
-#两广粤语
+#EXTINF:-1 tvg-name="公众号【壹来了】" tvg-logo="https://gitee.com/vv2029/gitee2025/raw/master/yilailogo.jpg" group-title="公众号【壹来了】",关注公众号【壹来了】
 https://pan.baidu.com/share/streaming?channel=chunlei&uk=3711833897&fid=269490943150744&sign=91c5d4f728742acf6bd4921422911f3edf3b6bcc&timestamp=1737175481&shareid=46143792027&type=M3U8_AUTO_720&vip=0&jsToken=82C8B6EDAA0DAF981E77D0D76A0721639819FAE80F824975C077EB301739213CDE4DE329E9C63EFA136BDE6D8C850A28&isplayer=1&check_blue=1&adToken=
 
-#EXTINF:-1 tvg-name="远远的电视频道" tvg-logo="https://q5.itc.cn/q_70/images01/20241019/ae2b2966c26c43e58c84d0d723f9b312.jpeg" group-title="远远的电视频道",[请关注公众号：壹来了]
-https://gh-proxy.com/raw.githubusercontent.com/CyWinth2025/SuCai/refs/heads/main/playlist.m3u8
+#EXTINF:-1 tvg-name="公众号【壹来了】" tvg-logo="https://gitee.com/vv2029/gitee2025/raw/master/yilailogo.jpg" group-title="公众号【壹来了】",关注公众号【壹来了】
+http://39.136.206.25:6610/PLTV/77777777/224/3221225919/index.m3u8?servicetype=1&stbId=005202000001324021C024D9041DF7BD&UserToken=JJgFvJJgFv7X2qhARs6DkHf4esrJzVB9&UserName=M13977482305&stbId=005202000001324021C024D9041DF7BD&IASHttpSessionId=RR777720250116110331332872&ispcode=1108
 
 #EXTINF:-1 ,梧州新闻综合
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
